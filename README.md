@@ -17,3 +17,5 @@ starting page: http://www.dianping.com/macau/food/
 
 ## License
 CC 4.0
+## Rreference
+`SAMPLE`: https://github.com/marla322/hkbu-big-data-media/tree/master/HW2
